@@ -2,9 +2,9 @@
 
 My name is Gustavo; I'm from Santa Rosa, La Pampa, Argentina; and I'm a trial lawyer.
 
-* I’m currently working on civil law
-* I’m currently learning criminal law
-* I offer consulting hours, you can contact me at gustavonale[at]gmail[dot]com
+* I’m currently working on civil law;
+* I’m currently learning criminal law;
+* I offer consulting hours, you can contact me at 'gustavonale[at]gmail[dot]com'.
 
 Sincerely greets you.
 <!--
